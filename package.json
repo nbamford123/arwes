@@ -1,5 +1,5 @@
 {
-  "name": "arwes",
+  "name": "@nbamford123/arwes",
   "version": "1.0.0-alpha.6",
   "description": "Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps",
   "keywords": [
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arwesjs/arwes.git"
+    "url": "git+https://github.com/nbamford123/arwes/arwes.git"
   },
   "bugs": {
     "url": "https://github.com/arwesjs/arwes/issues"
